@@ -4,10 +4,8 @@
 <h1 align="start">Rocket Coffee - Maratona Explore 3.0</h1>
 <p align="center">
   <a href="#apple-sobre">Sobre</a> &#xa0; | &#xa0;
-  <a href="#-telas-das-aplica%C3%A7%C3%A3o">Cardápios</a> &#xa0; | &#xa0;
-  <a href="#-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando-o-projeto-em-seu-computador">Inciando o projeto</a> &#xa0; | &#xa0;
+  <a href="#-cardápios">Cardápios</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-para-inicializar-o-projeto">Inciando o projeto</a> &#xa0; | &#xa0;
   <a href="#-autor">Autor</a>
 </p>
 <br>

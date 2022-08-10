@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Roboto Serif', serif;
+}
+
+
+ul {
+    list-style: none;
+}
+
+/*HEADER*/
+
+header {
+    text-align: center;
+    padding: 22px 0;
+}
+
+
+header h1 span {
+    color: #9F4813;
+}
+.subtitle {
+    font-weight: 400;
+    font-size: 14px;
+    color: #4D4D4D;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+
+header, section {
+    max-width: 390px;
+    margin: 0 auto;
+    
+    
+}
+
+.logo {
+    height: 35px;
+    width: 35px;
+    display: inline;
+    padding: 0 5px;
+    margin-top: 8px;
+}
+
+.nome {
+    display: inline;
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+section h2 {
+    padding: 14px 10px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #0D0D0D;
+}
+
+/*LISTA*/
+
+ul li {
+    margin-bottom: 25px;
+    display: flex;
+}
+strong {
+    white-space: nowrap;
+}
+
+li .details {
+    max-width: 392px;
+}
+
+.details h3 {
+    color: #2D2C2A;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    font-size: 16px;
+
+}
+
+.icon {
+    padding: 0 10px;
+}
+
+
+
+li .description {
+    font-weight: 300;
+    color: #23221F;
+    font-size: 13px;
+    line-height: 25px;
+}
+.price {
+    color: #9F4813;
+    font-weight: 700;
+}
+
+.bebidas {
+    padding: 0 10px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+}

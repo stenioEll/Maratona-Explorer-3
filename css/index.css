@@ -90,6 +90,11 @@ li .details {
     padding: 0 10px;
 }
 
+.icon img {
+    height: 50px;
+    width: 50px;
+}
+
 
 
 li .description {
